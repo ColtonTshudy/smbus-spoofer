@@ -1,0 +1,24 @@
+# ninja log v6
+944	1134	7475339165650411	CMakeFiles/smbus-spoofer.dir/startup_stm32f401xc.s.obj	c800155eee136284
+103	1006	7475339157193236	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	f390177a357915ed
+126	852	7475339157472298	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	ced96b9760bc0306
+5	862	7475339156269875	CMakeFiles/smbus-spoofer.dir/Core/Src/main.c.obj	36d85c6fc240a0cb
+25	996	7475339156465442	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	c94e81d3977a1171
+152	872	7475339157697419	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	44cf3a2f1d07ce6b
+13	944	7475339156339920	CMakeFiles/smbus-spoofer.dir/Core/Src/stm32f4xx_it.c.obj	e24079892c3fd9d7
+74	994	7475339156954646	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	80b44fb5d1f17542
+93	1001	7475339157037920	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	9e05f9e2af8905f7
+84	997	7475339157037920	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	94645832285f6d29
+38	995	7475339156599979	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	11097fb0d5366fba
+55	998	7475339156762615	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	30878018affba245
+872	1197	7475339164935019	CMakeFiles/smbus-spoofer.dir/Core/Src/syscalls.c.obj	70aa464168d27286
+143	999	7475339157645594	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	78745f5bb94fdf1d
+19	1000	7475339156408661	CMakeFiles/smbus-spoofer.dir/Core/Src/stm32f4xx_hal_msp.c.obj	1057d807b9960423
+45	1000	7475339156672634	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	a918bc675168c989
+854	1334	7475339164755015	CMakeFiles/smbus-spoofer.dir/Core/Src/system_stm32f4xx.c.obj	dda4d5a5bb15e133
+31	1022	7475339156528402	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	9e6a15bf687f1f73
+111	1029	7475339157193236	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	441bb3244c607b92
+135	1040	7475339157472298	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	a8d480c15e761c13
+63	1118	7475339156843311	CMakeFiles/smbus-spoofer.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	ba66accf36a116b
+863	1153	7475339164845018	CMakeFiles/smbus-spoofer.dir/Core/Src/sysmem.c.obj	976a7acc37570b0
+1334	1656	7475339169549291	smbus-spoofer.elf	ec62de7014b82ee6
